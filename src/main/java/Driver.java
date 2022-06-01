@@ -4,7 +4,7 @@ public class Driver {
 
 	public static void main(String[] args) {
 		
-		Counter counter = new Counter();
+		Counter counter = news Counter();
 		
 		System.out.println("nilai Count:" + counter.getCount());
 		
